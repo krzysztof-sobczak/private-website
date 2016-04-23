@@ -1,0 +1,40 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-container {
+    color: #20565d;
+    margin-top:40px;
+}
+
+.main-container img {
+    margin:auto;
+}
+
+.main-container .social{
+    margin-top:100px;
+}
+
+.main-container .social li {
+    margin-top:20px;
+}
+
+.main-container a,
+.main-container .title {
+    color:#43c1c8;
+    font-size:24px;
+    font-weight: 300;
+}
+
+.main-container .title {
+    font-weight:bold;
+}
+
+.main-container a:hover,
+.main-container a:focus {
+    color: #20565d;
+}
+
+.main-container a .fa {
+    font-size:40px;
+}
